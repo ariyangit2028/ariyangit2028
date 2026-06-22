@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=180&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=ffffff&repeat=false&lines=Hi!%2C+I'm+Ariyan+" 
+      src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=180&duration=3500&pause=1200&center=true&vCenter=true&width=1400&height=220&color=ffffff&repeat=false&lines=Hi+I+am+ARIYANN" 
       alt="Typing Quote" 
     />
   </a>
@@ -36,7 +36,7 @@
          width="32"
          style="border-radius:50%; margin:0 10px;" />
   </a>
-  <a href="mailto:ariyanworkspace123@gmail.com">
+  <a href="mailto:nitinkumar11402@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"
          width="32"
          style="border-radius:50%; margin:0 10px;" />
@@ -118,4 +118,4 @@
 
 ---
 
-<h2 align="center">Thanks for Visiting ❤ !</h2>
+<h2 align="center">Thanks for Visiting ❤ Night Owls!</h2>
