@@ -36,7 +36,7 @@
          width="32"
          style="border-radius:50%; margin:0 10px;" />
   </a>
-  <a href="mailto:nitinkumar11402@gmail.com">
+  <a href="mailto:ariyanworkspace123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"
          width="32"
          style="border-radius:50%; margin:0 10px;" />
@@ -118,4 +118,4 @@
 
 ---
 
-<h2 align="center">Thanks for Visiting ❤ Night Owls!</h2>
+<h2 align="center">Thanks for Visiting ❤ !</h2>
